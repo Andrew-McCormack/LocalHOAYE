@@ -1,0 +1,8 @@
+Frequency (Hz)		Average Age (Years)
+===========================================
+8000			Everyone
+12000			Under 50
+15000			Under 40
+16000			Under 30
+17000			Under 24
+19000			Under 20
